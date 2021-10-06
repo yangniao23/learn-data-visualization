@@ -1,1 +1,1 @@
-# earn-data-visualization
+# learn-data-visualization
